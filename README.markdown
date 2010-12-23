@@ -1,4 +1,4 @@
-h1. Import Mercurial/HG repositories to Git
+# Import Mercurial/HG repositories to Git
 
 This was copied from [WebOnRails](http://webonrails.com/2009/02/19/export-mercurialhg-repository-to-git-repository/) in case the source or repo goes down.
 
